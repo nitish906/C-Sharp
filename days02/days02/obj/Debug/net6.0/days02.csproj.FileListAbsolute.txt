@@ -1,0 +1,15 @@
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.csproj.AssemblyReference.cache
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.AssemblyInfoInputs.cache
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.AssemblyInfo.cs
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.csproj.CoreCompileInputs.cache
+E:\C#Learning\days02\days02\bin\Debug\net6.0\days02.exe
+E:\C#Learning\days02\days02\bin\Debug\net6.0\days02.deps.json
+E:\C#Learning\days02\days02\bin\Debug\net6.0\days02.runtimeconfig.json
+E:\C#Learning\days02\days02\bin\Debug\net6.0\days02.dll
+E:\C#Learning\days02\days02\bin\Debug\net6.0\days02.pdb
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.dll
+E:\C#Learning\days02\days02\obj\Debug\net6.0\refint\days02.dll
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.pdb
+E:\C#Learning\days02\days02\obj\Debug\net6.0\days02.genruntimeconfig.cache
+E:\C#Learning\days02\days02\obj\Debug\net6.0\ref\days02.dll
