@@ -4,9 +4,11 @@
 3. Operators
 4. Control flow
 5. Loops
-6. String
-7. Arrays
-8. Method & Function
-9. Opps
+6. Mock-01
+7. String
+8. Arrays
+9. Method & Function
+10. Mock-02
+11. Opps
       
      
